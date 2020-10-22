@@ -1,0 +1,8 @@
+# # Keywords # #
+Music	        KEYWORD1
+NoDelayMusic    KEYWORD1
+init	        KEYWORD2
+play            KEYWORD2
+stop            KEYWORD2
+resume          KEYWORD2
+reset           KEYWORD2
